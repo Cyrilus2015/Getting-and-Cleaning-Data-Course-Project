@@ -8,7 +8,6 @@ Final table have 180 records and following columns.
 
 Subject
 Activity
-
 timeBodyAcceleration_MeanValue_X
 timeBodyAcceleration_MeanValue_Y
 timeBodyAcceleration_MeanValue_Z
