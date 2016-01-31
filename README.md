@@ -12,14 +12,15 @@ Initial date are here:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectf
 and it's full description here:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The initial analysis data files place in the subdirectory "data". In this directory one zip-file "Data.zip" present and it's content have unpacked in the subdirectory "UCI HAR Dataset" with following files. 
-activity_labels.txt - 6 types of activities on testing.
-features.txt - the list of all 561 variables - parameters of the measurements.
-features_info.txt - description of this variables.
-README.txt - the short information about measurements.
+1. activity_labels.txt - 6 types of activities on testing.
+2. features.txt - the list of all 561 variables - parameters of the measurements.
+3. features_info.txt - description of this variables.
+4. README.txt - the short information about measurements.
+
 In subdirectories "test" and "train" three similarly named files take place.
-subject_test.txt and subject_train.txt - the id-list of the subjects for every measurements.
-X_test.txt and X_train.txt - list of results of the measurements - 561 parameters for the many combinations of subjects and activities.
-y_test.txt and y_train.txt the - id-list of the activities for every measurements.
+1. subject_test.txt and subject_train.txt - the id-list of the subjects for every measurements.
+2. X_test.txt and X_train.txt - list of results of the measurements - 561 parameters for the many combinations of subjects and activities.
+3. y_test.txt and y_train.txt the - id-list of the activities for every measurements.
 
 So the couples for the measurement are separated into different files.
 
