@@ -26,6 +26,8 @@ In subdirectories "test" and "train" three similarly named files take place.
 
 So the couples for the measurement are separated into different files.
 
+Subdirectories "Inertial Signals" have to be ignored for the aim of this project.
+
 The script have to do the following.
 
 1. Merges the training and the test sets to create one data set.
